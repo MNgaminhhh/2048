@@ -20,7 +20,7 @@ const App = () => {
     <div>
       {!isLoggedIn ? (
         <Mdk
-          appid="id__hl0k5j8r1rp5mz35ggb0"
+          appid="id__w1r26ojoh7f49hk8m30s"
           onSuccess={handleLoginSuccess}
           onFailure={handleLoginFailure}
         >
